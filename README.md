@@ -9,7 +9,7 @@ This repository contains experimental transformer-based approaches for imputing 
 - **This is experimental research code in early development**
 - **Not tested for production use**
 - **May contain bugs and incomplete features**
-- **Use at your own risk**
+- **Use strictly prohibited without permission**
 - **No warranty or support provided**
 
 ## Overview
@@ -64,7 +64,7 @@ This software and associated documentation files (the "Software") are provided f
 
 **THE SOFTWARE IS PROVIDED "AS IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-**USE OF THIS SOFTWARE IS STRICTLY PROHIBITED** without explicit written permission from the copyright holder.
+**USE OF THIS SOFTWARE IS STRICTLY PROHIBITED** without explicit written permission from the copyright holder. **Any unauthorized use is at your own risk and may result in legal action.**
 
 ## Citation and References
 
@@ -89,4 +89,4 @@ For research collaboration or questions about this experimental work, please con
 
 ---
 
-**⚠️ WARNING: This is experimental research code. Use at your own risk. ⚠️**
+**⚠️ WARNING: This is experimental research code. Use strictly prohibited without permission. ⚠️**
